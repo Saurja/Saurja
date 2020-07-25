@@ -6,7 +6,7 @@ I am pursuing an undergraduate degree in computer science. I am familiar with mu
 
 Skills: JS / HTML / CSS / PHP / MYSQL
 
-- 🌱 I’m currently learning MERN STack 
+- 🌱 I’m currently learning MERN STACK 
 - 📫 How to reach me: saurjaghoshofficial@gmail.com 
 
 
