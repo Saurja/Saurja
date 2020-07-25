@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Saurja
+## Hi there 👋, my name is Saurja
 #### I am Full Stack Web Developer
 ![I am Full Stack Web Developer](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 
