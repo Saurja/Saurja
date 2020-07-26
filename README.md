@@ -10,7 +10,7 @@ Skills: JS / HTML / CSS / PHP / MYSQL
 - 📫 How to reach me: saurjaghoshofficial@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Saurja)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saurjaghosh//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Saurja)                           [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saurjaghosh//)  
 
 ⚡ Fun fact: The average attention span has decreased from 12 to 8 seconds. A goldfish, at 9 seconds, has a longer attention span than the average internet user.
 
