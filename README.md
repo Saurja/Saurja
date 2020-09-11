@@ -8,9 +8,6 @@
 I am pursuing an undergraduate degree in computer science. I am familiar with multiple coding languages. My field of Interest is Web dev.
 
 
-
-[![Saurja's github stats](https://github-readme-stats.vercel.app/api?username=Saurja)](https://github.com/Saurja/github-readme-stats)
-
 - 🌱 I’m currently learning MERN STACK 
 - 📫 How to reach me: saurjaghoshofficial@gmail.com 
 
