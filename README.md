@@ -14,8 +14,6 @@ I am pursuing an undergraduate degree in computer science. I am familiar with mu
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/saurjaghosh/) 
 [<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' alt='linkedin' height='30'>](https://www.instagram.com/it.is.sg/) 
 
-⚡ Fun fact: The average attention span has decreased from 12 to 8 seconds. A goldfish, at 9 seconds, has a longer attention span than the average internet user.
-
  ### Languages and Tools:
 
 [<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
@@ -37,3 +35,4 @@ I am pursuing an undergraduate degree in computer science. I am familiar with mu
 
 ![Saurja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurja&show_icons=true)
 
+⚡ Fun fact: The average attention span has decreased from 12 to 8 seconds. A goldfish, at 9 seconds, has a longer attention span than the average internet user. Thankyou for your attention, You are awesome! 
