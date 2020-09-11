@@ -1,4 +1,5 @@
-## Hi there 👋, my name is Saurja
+## Hi there , my name is Saurja <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 #### I am Full Stack Web Developer
 
 
@@ -37,6 +38,8 @@ I am pursuing an undergraduate degree in computer science. I am familiar with mu
 <img align="left" alt="JAVA" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <!--
 **Saurja/Saurja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurja&layout=compact)
 
 ![Saurja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurja&show_icons=true)
 
