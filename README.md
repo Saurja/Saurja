@@ -9,9 +9,7 @@ I am pursuing an undergraduate degree in computer science. I am familiar with mu
 
 
 - 🌱 I’m currently learning MERN STACK 
-- 📫 How to reach me: 
-
-[<img src='https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white' alt='linkedin' height='30'>](<a href="mailto:saurjaghoshofficial@gmail.com"></a>) 
+- 📫 How to reach me:  saurjaghoshofficial@gmail.com
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/saurjaghosh/) 
 [<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' alt='linkedin' height='30'>](https://www.instagram.com/it.is.sg/) 
 
