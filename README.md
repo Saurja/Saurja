@@ -33,6 +33,4 @@ I am pursuing an undergraduate degree in computer science. I am familiar with mu
 
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 
-![Saurja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurja&show_icons=true)
-
 ⚡ Fun fact: The average attention span has decreased from 12 to 8 seconds. A goldfish, at 9 seconds, has a longer attention span than the average internet user. Thankyou for your attention, You are awesome! 
