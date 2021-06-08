@@ -8,7 +8,7 @@
 I am pursuing an undergraduate degree in computer science. I am familiar with multiple coding languages. My field of Interest is Web dev.
 
 
-- 🌱 I’m currently learning MERN STACK 
+- 🌱 I’m currently learning MEAN STACK 
 - 📫 How to reach me:  saurjaghoshofficial@gmail.com
 ### Social Links:
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/saurjaghosh/) 
