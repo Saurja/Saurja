@@ -5,8 +5,6 @@
 
 ![I am Full Stack Web Developer](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 
-I am pursuing an undergraduate degree in computer science. I am familiar with multiple coding languages. My field of Interest is Web dev.
-
 
 - 🌱 I’m currently learning MEAN STACK 
 - 📫 How to reach me:  saurjaghoshofficial@gmail.com
