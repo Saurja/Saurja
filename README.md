@@ -6,7 +6,7 @@
 ![I am Full Stack Web Developer](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 
 
-- 🌱 I’m currently learning MEAN STACK 
+- 🌱 I’m currently learning MEAN+MERN STACK 
 - 📫 How to reach me:  saurjaghoshofficial@gmail.com
 ### Social Links:
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/saurjaghosh/) 
